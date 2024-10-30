@@ -1,0 +1,16 @@
+[
+  {
+    "nombre": "Brayan",
+    "apellido": "Gomez Muñoz",
+    "edad": 25,
+    "telefono": "123-456-7890",
+    "correo": "brayan@example.com"
+  },
+  {
+    "nombre": "Maria",
+    "apellido": "Lopez",
+    "edad": 30,
+    "telefono": "098-765-4321",
+    "correo": "maria@example.com"
+  }
+]
